@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+mido
+python-rtmidi
+python-osc
+requests
+lancedb
+langchain
+langchain-community
+ollama
+pandas
