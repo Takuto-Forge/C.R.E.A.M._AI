@@ -2,14 +2,14 @@
 
 **Compositional Real-time Engine for Augmented Musicality**
 
+# Demo
+
+https://www.youtube.com/watch?v=PbfORgyXfn0
+
 C.R.E.A.M. は、人間とAIがリアルタイムに音楽を即興共作するためのシステムです。  
 人間のMIDI演奏、自然言語による指示、音楽知識データベースを統合し、AIが音楽フレーズ・解釈テキスト・映像制御パラメータを生成します。
 
 ---
-
-# Demo
-
-https://www.youtube.com/watch?v=PbfORgyXfn0
 
 # Overview
 
